@@ -17,10 +17,6 @@
     "plugin:react/recommended",
     "plugin:jsx-a11y/recommended"
   ],
-  "globals": {
-    "Atomics": "readonly",
-    "SharedArrayBuffer": "readonly"
-  },
   "parserOptions": {
     "ecmaFeatures": {
       "jsx": true
